@@ -1,0 +1,44 @@
+Introduction to Business Intelliegence:
+
+Challeneges facing Decision makers:
+1. frequent decision making without information they need
+2. Dont have complete information OR they are restricted to use the top level management information they needed to complete the job
+3. 19+ hours spent to figure the structure of the data and information
+
+WHAT IS BI???
+1. Refers to skills, processes, technologies, applications, practices, used to support decisiomn making
+2. Gathering, storing, providing access to data to help clients make better business decisions.
+
+Improving Orgs, by providing business insightes to all eployees leading to better faster more relevant decisions.
+
+GET THE RIGHT INFORMATION TO RIGHT PEOPLE AT RIGHT TIME
+
+- improve operational efficiency
+- Eliminate report backlogs and ddelyas
+- Find root causes and take action
+- negotiate better contracts and suppliers
+- inventory managheemnt and wasted resources
+- sell information to customers partners and suppliers
+- market analysis, imporve strategies
+- Give users the means to make better decisions.
+- Challeneg assumptions with factual information
+
+WHY BI?
+
+Evolution
+
+Analytics (Tactical & Strategic)--->Optimization - Whats the best that can happen?
+Analytics (Tactical & Strategic)--->Predictive Modelling - What will happen next?
+Analytics (Tactical & Strategic)--->Forecasting/exploration - What if these trends comntinue?
+Analytics (Tactical & Strategic)--->Statistical analysis - Why is this happening?
+Data Acces and reporting (Operational)--->Alerts - What actions are needed?
+Data Acces and reporting (Operational)--->Query / Drill down - What exactly is the problem?
+Data Acces and reporting (Operational)--->Ad Hoc Reports - How many? how often? Where?
+Data Acces and reporting (Operational)--->Standard report - What Happened?
+
+
+
+
+
+
+
