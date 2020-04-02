@@ -37,6 +37,44 @@ Data Acces and reporting (Operational)--->Ad Hoc Reports - How many? how often? 
 Data Acces and reporting (Operational)--->Standard report - What Happened?
 
 
+Data Warehousing:
+
+Operation Data          |
+Customer data		|
+Manfg Data		|=====>   Extract And transform (ETM)--> Data Warehouse (Central repository)  - Information Directory <---> Data Analytics,OLAP, Data Visualization and Data Mining
+Historical data		|
+External data        	|
+
+Challenges of Busilding BI SOLS:
+
+1. Data exist in multiple spaces
+2. Data is not formatted to support complex analysis
+3. Differenrt kinds of workers have differnet data needs
+4. What kind of data is needed to be examined and at waht level
+5. How will user interact with the data?
+
+Being a Data Scientist is like a De Facto IT professional
+
+BI must be in the top level catorgories of business operations and should be a priority in the organization to understand the potential of the Data
+
+A BI evangelist or a professional, has to develop data infrastructure and guidance of management and refined to address the KPIs for the various business disciplines
+
+We should then develop objective performance measurements afor the respective areas breaking down thesse KPIs
+
+Have a bottom up approach in critical order to identify cost saving opportunities and eliminate ineffective processes
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
