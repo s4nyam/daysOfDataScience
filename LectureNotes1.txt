@@ -1,0 +1,63 @@
+Outline of this course:
+
+1. Getting work environment setup
+2. Evaluating and preparing Data for Advanced Analytics
+3. Model Selection Tecnhiniques
+4. Time series forecasting and Financial planning, budgeting, Forecasting
+5. Regression Analytics
+6. Social media and text analytics
+Leveraging information from news feed and twitter scraping
+7. Market Basket Association (Product recommendation engine)
+if a person buy this and that we will practice on amazon and netflix and some real world contexts.
+WE will use tools and algorithms to get this completed
+8. Clustering and classification techniques - market segmentation, clustering same kind of customers togther and manners that allow us to group busienss contact
+9. Artificial Intelligenece and Systems of Neurakl networks
+10. Genetic algorithms and mimic biological processes
+11. Predictive modelling
+12. Decision tree models, CART, RANDOM FORESTS, C5.0
+
+
+
+-------------------------------------------------------------
+
+Examples:
+1. Robustly forecasting product sale and taking seasonality & trend into account, time analysis and growth of some components in making the prediction work
+2. Identifying corret selling promotional tactics of consumer product
+3. Price sensitivity of product, idea of price dynamics that optimizes the prices
+4. Optimizing product location of supermakret business operations
+5. Modelling variables impacting customer chum and releifing strategy
+6. Develop ANN whether RISK for penalty of House mortgage, how de we use biliogical system in mimicing predictions.
+7. Understand consumer sentiment off of unstructured data
+8. Behavioural analysis of political party and their winning
+9. Forecasting convition rates based off external macroeconomics factors
+10. Information retrieval and text based search engines
+11. Creating a ML model for breast cancer prediction and algorithms that helps us to understand analytics
+-------------------------------------
+
+pewdiction is very difficult, especially if its baout the future!!! - Neils Bohr (Grandpa of Quantum Mech)
+
+
+Building an analytics Infrastructure
+- BI
+- Predictive Analytics
+- The age of Big Data
+
+PREDICTIVE ANALYSIS IN MARKETPLACE
+
+1. The companies not following this analytics capablity, they would not stand the heat in the market. will erode their competitve advantage and run the risk of failing
+2. Regardless of the size and market, all Business Orgs utilises some sort of Analytics for decision making, Most successful ones utilises most of their Business Operations on Analytics information gathering
+3. Most of the information doesnt effectively produces the results, there is a real opportunity to streamline and overlay the strenght to analytical capablities.
+
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
