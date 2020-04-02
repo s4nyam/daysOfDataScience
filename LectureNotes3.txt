@@ -1,0 +1,26 @@
+Intorduction to predictive analytics?
+
+WHat is predictive analytics?
+
+1. A set of BI apps and technologies that uncovers the patterns within large voluimes of data that can be used to predict behavious and events
+
+CASE STUDY - NETFLIX:
+
+Recommendation engine, predict the likelihood of shows to be watched next...
+
+Match.com
+
+Big data concepts from Bachelor's course of last semester. Insights about BIG DATA + HADOOP + HIVE + PIG and other Big Data tools
+
+Google trend analysis:
+
+High level review and macro scale look up
+
+1. More people look for business analytics than business intelkligence
+
+and for Big Data growth has a good growth in search results from 2005 ot 2013
+
+"Hadoop" has a steady trend all over 2005 to 2013
+
+
+
