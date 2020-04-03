@@ -34,4 +34,38 @@ A VP sales is tasked with completoing sakes objectives for the sales staff, and 
 	1. Some sales professionals will conservatively estimate (SANDBAG) approach the overall sales growth so that they can readiluy obtain their performance objectives
 	2. Another approach that sales professioanls will take involves simple averaging of the sales trends over a peroiod of time.
 
+4. TOP DOWN APPROACH:Simple averaging is a naive approach and cannot be iomplemented organization wide
+
+
+2012 = 7.15% >>>2013 = +1.5% >>> 2014 = +4.5 (Simple averaging) OLD SCHOOL METHOD
+
+ARIMA TIME SERIES TECHNIQUE
+
+
+Categorizing the graph from data is important whether the data shows TREND, OR SEASONAL, OR RANDOM
+
+
+The Arima time series stats model breaks down the product sale s quantities into three fundamnetal compopnents, Seasomnality, Random, and Fluctuations.
+
+These components together constitute a powerful modeliing and forecast approximation.
+
+Customer Level Forecast approaches include:
+
+1. Consider seasonality
+2. Trending
+3. Purchasing Techniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
