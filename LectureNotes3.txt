@@ -23,4 +23,15 @@ and for Big Data growth has a good growth in search results from 2005 ot 2013
 "Hadoop" has a steady trend all over 2005 to 2013
 
 
+Predictive Analytics in Action EXAMPLE
+
+
+A VP sales is tasked with completoing sakes objectives for the sales staff, and financial planning for the CFO
+
+1. How will the develop an apptoproate forecast target for this customer?
+2. Will thwy show an overall sales decline stagnent sales or sales growth
+3. How do they reach this conclusion:
+	1. Some sales professionals will conservatively estimate (SANDBAG) approach the overall sales growth so that they can readiluy obtain their performance objectives
+	2. Another approach that sales professioanls will take involves simple averaging of the sales trends over a peroiod of time.
+
 
