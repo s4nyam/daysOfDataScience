@@ -1,0 +1,5 @@
+NEW SESSION: R and R studio 
+
+installation, benefits, R script development, R tips
+
+
