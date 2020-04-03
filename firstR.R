@@ -1,17 +1,15 @@
 #loading libs
 library(caret)
 library(rpart)
-library(c50)
 library(rattle)
 library(partykit)
-library(RWeka)
 library(party)
 library(ROCR)
-library(xlsx)
+
 
 
 # Load data
-mydata <- read.csv("Diabetes.csv")
+mydata <- read.csv("/Users/sanyamjain/Desktop/DaysOfDataScience/file.csv")
 summary(mydata)
 
 # Data can also be imported/exported from a variett sources instead a .csv (ODBC, HTML, HDFS, .txt, .xlsx etc)
@@ -59,11 +57,18 @@ round(mcor, digits=2)
 plot(mydata)
 
 
-set.seed(6789)
+set.seed(6789) 
 ind <- sample(2, nrow(mydata), replace=TRUE, prob=c(0.7,0.3))
 trainData <- mydata[ind==1,]
-testData <- mydata[ind=2,]
+testData <- mydata[ind==2,]
 
+
+
+
+
+
+
+# The seed function is important and allows for us to recreate the results exactly as R produced them, USE SEEDS BEFORE RANDOM SPLITTING
 
 
 
