@@ -68,7 +68,39 @@ testData <- mydata[ind==2,]
 
 
 
-# The seed function is important and allows for us to recreate the results exactly as R produced them, USE SEEDS BEFORE RANDOM SPLITTING
+# The seed function is important and allows for us to recreate the 
+# results exactly as R produced them, USE SEEDS BEFORE RANDOM SPLITTING
+
+
+# Having a good comment and notation in R script, makes a helpful recipe book
+
+# It should contain all the libs and models and applications used in the code
+
+# REcipe Book will be helpfule in long run
+
+# With th rich variety of notation avilable from 3rd party developers, this will make a difference for creating the recipe book to learn the functions later on readuing the code
+
+# THats what create a difference between a good data scioencetist and a great one
+
+# Forgive me for spelling mistakes ;)
+
+
+
+
+# R uses parallel processing and one can use the number of cores to be used in the modelling and learning
+
+# This is very helpful because of the manner in which models are processed in-memory
+
+
+# If you have complex models, that are having trouble being processed in a timely manner OR 
+# take advantage of Big Data and Hadoop File system, it will very helpful using "parallel" package to Horse power
+
+# 
+# library(parallel)
+# myfun <- dunction(i) {Sys.sleep(1);i}
+# mclapply(1:8, myfun, mc.cores = 4)
+# 
+
 
 
 
